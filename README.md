@@ -1,9 +1,10 @@
-
-# Sales Analysis Power BI Dashboard
+# Sales Analysis Power BI 
 
 ## Project Overview
 
 Unveiling a comprehensive Sales Analysis Power BI Dashboard meticulously crafted to empower strategic decision-making and drive business growth. Leveraging key performance indicators (KPIs) and sophisticated analytical tools, this dashboard offers a profound understanding of sales dynamics. Dive into the data-rich landscape through insightful charts, correlation analyses, and geographical distributions for an unparalleled perspective on sales performance.
+
+---
 
 ## Key Achievements
 
@@ -18,6 +19,8 @@ Unveiling a comprehensive Sales Analysis Power BI Dashboard meticulously crafted
 - **Geographical Sales Distribution Visualization:** Dynamically visualized sales distribution across various dimensions, including Sales by Month, Sales by Category, and Region Analysis, unveiling patterns and opportunities that might go unnoticed in traditional analyses.
 
 - **Region Analysis for Monthly Sales and Quantity Totals:** Conducted detailed regional analyses, offering targeted insights into regional variations and trends for tailoring strategies to specific market dynamics.
+
+---
 
 ## Project Preview
 ![Sales Analysis Power BI Dashboard](https://github.com/virajbhutada/Sales-Analysis-PowerBI/assets/143819712/7a5bcd21-0750-42b4-8d61-049871dd2634)
@@ -57,10 +60,13 @@ git push origin main
 ### Raise Issues
 Encounter a bug or have a feature request? Raise an issue on the [GitHub Issues](https://github.com/virajbhutada/Sales-Analysis-PowerBI/issues) page to facilitate effective communication and resolution.
 
+
 ## Contributing and Project Structure
 *Stay connected with the project's development. Explore our [Contribution Guidelines](https://github.com/virajbhutada/Sales-Analysis-PowerBI/blob/main/CONTRIBUTING.md) and understand the [Project Structure](https://github.com/virajbhutada/Sales-Analysis-PowerBI/blob/main/docs/project-structure.md) for a seamless contribution experience.*
 
-### License
+---
+
+## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/virajbhutada/Sales-Analysis-PowerBI/blob/main/LICENSE) file for details.
 
 ### Now, dive into the code and data to unlock a world of insights. Happy analyzing!
