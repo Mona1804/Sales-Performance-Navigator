@@ -1,5 +1,5 @@
 # Sales Analysis Power BI 
-
+---
 ## Project Overview
 
 Unveiling a comprehensive Sales Analysis Power BI Dashboard meticulously crafted to empower strategic decision-making and drive business growth. Leveraging key performance indicators (KPIs) and sophisticated analytical tools, this dashboard offers a profound understanding of sales dynamics. Dive into the data-rich landscape through insightful charts, correlation analyses, and geographical distributions for an unparalleled perspective on sales performance.
